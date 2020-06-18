@@ -1,0 +1,18 @@
+.header-main{
+    background-color:rgba(255, 255, 255);
+    height: 3.2rem;
+    border-bottom : 1px solid #ddd;
+    overflow:hidden;
+    margin-bottom: 2rem;
+}
+.header-logo{
+    color : #1e90ff;
+    font-size : 2rem;
+    padding-right : .5rem; 
+}
+.hedaer-text{
+    color : rgb(148, 138, 73);
+}
+.header-menu{
+    line-height: 3.1rem;
+}

@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "egg-init": "^1.17.3"
+  }
+}

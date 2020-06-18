@@ -1,0 +1,29 @@
+.author_summary{
+    padding : 1.2rem 0;
+    color : #888;
+}
+
+.sociality{
+
+}
+.sociality ul{
+    list-style: none;
+    padding : .3rem 0;
+    text-align : center;
+}
+.sociality ul li {
+    display : inline-block;
+}
+.sociality_icon{
+    background-color:#55acee;
+}
+.sociality ul li:hover .sociality_icon{
+    background-color:#a7b37c;
+}
+.author_tag{
+    padding:0 1rem ;
+}
+.tag_text{
+    margin :.5rem 0.3rem;
+    border-radius:.3rem;
+}

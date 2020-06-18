@@ -1,0 +1,21 @@
+body{
+    background-color : rgb(218, 218, 218);
+}
+.login_main{
+    width : 350px;
+    position: absolute;
+    top:35%;
+    left :50%;
+    transform: translate(-50%,-50%);
+}
+
+.loginInput{
+    margin-bottom : 1rem;
+    padding : .4rem;
+    border-radius: .3rem;
+}
+.login_in{
+    display: block;
+    width : 100%;
+    border-radius: .3rem;
+}

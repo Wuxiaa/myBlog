@@ -1,0 +1,43 @@
+body{
+    background-color : #bcc59c;
+}
+
+.list-main,.author,.detailed,.articleNav{
+    background-color:rgba(255, 255, 255, 0.3);
+    border:1px solid #fff;
+    border-radius : .5rem;
+    padding : 1.5rem;
+}
+.list-header{
+    font-size: 1.2rem;
+    color : #8b8b8b;
+}
+.list-title{
+    font-size: 1.5rem;   
+    color : #414141;
+    padding : .5rem 0;
+}
+.list-introduce{
+    line-height: 2rem;
+    padding-bottom: 1rem;
+    font-size:1.1rem;
+}
+.margin-right{
+    margin-right : 1rem;
+}
+.center{
+    text-align : center;
+}
+.padding{
+    padding :0 1rem;
+}
+
+.article_tag{
+    list-style :none;
+    padding:0 ;
+}
+.article_tag li{
+    display : inline-block;
+    padding : .5rem 1rem .5rem 0;
+}
+
